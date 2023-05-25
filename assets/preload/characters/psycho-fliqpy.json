@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				36,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Psycho-Down"
+		},
+		{
+			"offsets": [
+				32,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Psycho-Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "Psycho-Idle"
+		},
+		{
+			"offsets": [
+				23,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Psycho-ScreamU"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Psycho-ScreamR"
+		},
+		{
+			"offsets": [
+				22,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Psycho-ScreamU"
+		},
+		{
+			"offsets": [
+				-10,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Psycho-ScreamR"
+		},
+		{
+			"offsets": [
+				28,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Psycho-Left"
+		},
+		{
+			"offsets": [
+				-3,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Psycho-Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Psycho-Fliqpy-Fire",
+	"position": [
+		-70,
+		230
+	],
+	"healthicon": "fliqpy-psych",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-20,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
